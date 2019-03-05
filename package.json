@@ -1,0 +1,26 @@
+{
+  "name": "react-native-animation-wrapper",
+  "version": "0.1.0",
+  "description": "Creates a view that can have multiple animations which are activated using props. It optionally returns promises that are fulfilled on animation completion.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "animation",
+    "view"
+  ],
+  "author": "Dr Jonti Hudson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JontiHudson/react-native-animation-wrapper.git"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.86.0",
+    "flow-remove-types": "^1.2.3"
+  },
+  "dependencies": {}
+}
