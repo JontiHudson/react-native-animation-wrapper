@@ -1,6 +1,6 @@
 {
   "name": "react-native-animation-wrapper",
-  "version": "0.1.0",
+  "version": "0.1.4",
   "description": "Creates a view that can have multiple animations which are activated using props. It optionally returns promises that are fulfilled on animation completion.",
   "main": "lib/index.js",
   "scripts": {
